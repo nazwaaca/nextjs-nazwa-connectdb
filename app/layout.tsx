@@ -2,7 +2,7 @@
 import './ui/global.css';
 
 import { usePathname } from "next/navigation";
-import Navbar from './ui/components/navbar';
+import Navbar from './ui/components/navbar-admin';
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();

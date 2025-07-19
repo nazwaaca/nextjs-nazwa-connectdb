@@ -1,4 +1,4 @@
-// /app/lib/products.ts
+// /app/lib/dataCrochet.ts
 export const products = [
   {
     id: 1,
