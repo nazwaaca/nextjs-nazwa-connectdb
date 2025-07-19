@@ -20,7 +20,8 @@
     ],
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "@prismaclient" : ["./generated/prisma-client"]
     }
   },
   "include": [
